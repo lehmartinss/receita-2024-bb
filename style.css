@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+  }
+  #pudim{
+    max-width: 500px;
+    margin: auto;
+    display: block;
+    border-radius: 400px;
+  }
+  h2{
+   color: brown;
+  }
+  h3{
+    color: gray; 
+  }
