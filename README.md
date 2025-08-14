@@ -4,7 +4,7 @@
 ---
 
 ## Sobre 
-Site informativo para demonstrar como desenvolver uma receita de um pudim delicioso! langing page para divulgar o jogo "Let's Go, Pikachu!" O objetivo desse projeto é colocar em prática os conhecimentos adquiridos sobre linguagem de marcação, durante o curso de Desenvolvimento de Sistema do [SENAI Jandira]. 
+Site informativo para demonstrar como fazer uma receita de um pudim delicioso, o objetivo desse projeto é colocar em prática os conhecimentos adquiridos sobre linguagem de marcação, durante o curso de Desenvolvimento de Sistema do [SENAI Jandira]. 
 (https://sp.senai.br/unidade/jandira/)
 
 
